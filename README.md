@@ -1,0 +1,1 @@
+This is the first mini-project listed in The Odin Project.  By the end of this project I will have a basic understanding of HTML and CSS.
